@@ -1,2 +1,2 @@
 # RockPaperScissors
-Rock Paper Scissors code With Python
+Rock Paper Scissors Game With Python
